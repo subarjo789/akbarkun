@@ -1,0 +1,162 @@
+[
+  {
+    "no": 1,
+    "judul": "A Light in the Attic",
+    "harga": "Â£51.77",
+    "rating": 3,
+    "stok": "In stock",
+    "waktu_scraping": "2026-04-06 17:23:27"
+  },
+  {
+    "no": 2,
+    "judul": "Tipping the Velvet",
+    "harga": "Â£53.74",
+    "rating": 1,
+    "stok": "In stock",
+    "waktu_scraping": "2026-04-06 17:23:27"
+  },
+  {
+    "no": 3,
+    "judul": "Soumission",
+    "harga": "Â£50.10",
+    "rating": 1,
+    "stok": "In stock",
+    "waktu_scraping": "2026-04-06 17:23:28"
+  },
+  {
+    "no": 4,
+    "judul": "Sharp Objects",
+    "harga": "Â£47.82",
+    "rating": 4,
+    "stok": "In stock",
+    "waktu_scraping": "2026-04-06 17:23:28"
+  },
+  {
+    "no": 5,
+    "judul": "Sapiens: A Brief History of Humankind",
+    "harga": "Â£54.23",
+    "rating": 5,
+    "stok": "In stock",
+    "waktu_scraping": "2026-04-06 17:23:28"
+  },
+  {
+    "no": 6,
+    "judul": "The Requiem Red",
+    "harga": "Â£22.65",
+    "rating": 1,
+    "stok": "In stock",
+    "waktu_scraping": "2026-04-06 17:23:28"
+  },
+  {
+    "no": 7,
+    "judul": "The Dirty Little Secrets of Getting Your Dream Job",
+    "harga": "Â£33.34",
+    "rating": 4,
+    "stok": "In stock",
+    "waktu_scraping": "2026-04-06 17:23:28"
+  },
+  {
+    "no": 8,
+    "judul": "The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",
+    "harga": "Â£17.93",
+    "rating": 3,
+    "stok": "In stock",
+    "waktu_scraping": "2026-04-06 17:23:28"
+  },
+  {
+    "no": 9,
+    "judul": "The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics",
+    "harga": "Â£22.60",
+    "rating": 4,
+    "stok": "In stock",
+    "waktu_scraping": "2026-04-06 17:23:28"
+  },
+  {
+    "no": 10,
+    "judul": "The Black Maria",
+    "harga": "Â£52.15",
+    "rating": 1,
+    "stok": "In stock",
+    "waktu_scraping": "2026-04-06 17:23:28"
+  },
+  {
+    "no": 11,
+    "judul": "Starving Hearts (Triangular Trade Trilogy, #1)",
+    "harga": "Â£13.99",
+    "rating": 2,
+    "stok": "In stock",
+    "waktu_scraping": "2026-04-06 17:23:28"
+  },
+  {
+    "no": 12,
+    "judul": "Shakespeare's Sonnets",
+    "harga": "Â£20.66",
+    "rating": 4,
+    "stok": "In stock",
+    "waktu_scraping": "2026-04-06 17:23:28"
+  },
+  {
+    "no": 13,
+    "judul": "Set Me Free",
+    "harga": "Â£17.46",
+    "rating": 5,
+    "stok": "In stock",
+    "waktu_scraping": "2026-04-06 17:23:29"
+  },
+  {
+    "no": 14,
+    "judul": "Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)",
+    "harga": "Â£52.29",
+    "rating": 5,
+    "stok": "In stock",
+    "waktu_scraping": "2026-04-06 17:23:29"
+  },
+  {
+    "no": 15,
+    "judul": "Rip it Up and Start Again",
+    "harga": "Â£35.02",
+    "rating": 5,
+    "stok": "In stock",
+    "waktu_scraping": "2026-04-06 17:23:29"
+  },
+  {
+    "no": 16,
+    "judul": "Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",
+    "harga": "Â£57.25",
+    "rating": 3,
+    "stok": "In stock",
+    "waktu_scraping": "2026-04-06 17:23:29"
+  },
+  {
+    "no": 17,
+    "judul": "Olio",
+    "harga": "Â£23.88",
+    "rating": 1,
+    "stok": "In stock",
+    "waktu_scraping": "2026-04-06 17:23:29"
+  },
+  {
+    "no": 18,
+    "judul": "Mesaerion: The Best Science Fiction Stories 1800-1849",
+    "harga": "Â£37.59",
+    "rating": 1,
+    "stok": "In stock",
+    "waktu_scraping": "2026-04-06 17:23:29"
+  },
+  {
+    "no": 19,
+    "judul": "Libertarianism for Beginners",
+    "harga": "Â£51.33",
+    "rating": 2,
+    "stok": "In stock",
+    "waktu_scraping": "2026-04-06 17:23:29"
+  },
+  {
+    "no": 20,
+    "judul": "It's Only the Himalayas",
+    "harga": "Â£45.17",
+    "rating": 2,
+    "stok": "In stock",
+    "waktu_scraping": "2026-04-06 17:23:29"
+  }
+]
